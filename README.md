@@ -20,4 +20,4 @@
 
 # Light Bulb
 ### using light bulb video (zerocrossing)
-[![Light Bulb (https://i.ibb.co/PCsNRkY/https-timg-com-vi-Q0n-Y4-D9vxs-Y-hqdefault.jpg)](https://www.youtube.com/watch?v=Q0nY4D9vxsY "Light Bulb")
+[![Light Bulb](https://i.ibb.co/SRwWCN3/https-i-ytimg-com-vi-Q0n-Y4-D9vxs-Y-hqdefault.jpg)](https://www.youtube.com/watch?v=Q0nY4D9vxsY "Light Bulb")
