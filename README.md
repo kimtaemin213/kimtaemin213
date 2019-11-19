@@ -15,4 +15,4 @@
 # CIRCUIT
 
 
-![CIRCUIT](circuit.jpg)
+![CIRCUIT](회로.jpg)
