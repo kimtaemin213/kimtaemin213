@@ -2,14 +2,16 @@ let frog;
 let car1;
 let goal;
 let sound_hit;
+let canvasWidth =400;
+let canvasHeight=400;
 
 function preload() {
   sound_hit = loadSound('hit.wav');
 }
 
 function setup() {
-  createCanvas(400, 400);
-
+  canvas = createCanvas(canvasWidth, canvasHeight);
+  canvas.position(windowWidth/2 - canvasWidth/2, 20);
   resetGame();
 
 }
