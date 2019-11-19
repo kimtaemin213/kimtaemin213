@@ -10,3 +10,9 @@
 * tlp620/lm396
 * triac/bt136/BTA06-600E
 * 220k resistance  * 2 / 10k * 2  /  120 / 470 /
+* 220v 50W lamp
+
+# CIRCUIT
+
+
+![CIRCUIT](circuit.jpg)
