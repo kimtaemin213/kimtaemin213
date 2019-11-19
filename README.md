@@ -11,7 +11,7 @@
 * triac/bt136/BTA06-600E
 * 220k resistance  * 2 / 10k * 2  /  120 / 470 /
 * 220v 50W lamp
-* if you want more safety ciruit, add 1n4007 protection diode
+*_..if you want more safety ciruit.._, add 1n4007 protection diode
 
 # CIRCUIT
 
