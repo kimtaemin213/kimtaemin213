@@ -17,13 +17,13 @@
 
 
 ![CIRCUIT](회로.jpg)
-![moc3021](./moc3021.png)
+![moc3021](moc3021.png)
 
 * if you want use ACmotor u have to soldering capacitor. but if you don't use motor you don't have to soldering that.
 
-![PCB](./pcbfor_ac.jpg)
+![PCB](pcbfor_ac.jpg)
 
-*this is PCB for AC_Dimming
+* this is PCB for AC_Dimming
 
 # Light Bulb
 ### using light bulb video (zerocrossing)
