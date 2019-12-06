@@ -21,7 +21,7 @@
 
 * if you want use ACmotor u have to soldering capacitor. but if you don't use motor you don't have to soldering that.
 
-![PCB](pcbfor ac.jpg)
+![PCB](pcbfor_ac.jpg)
 
 *this is PCB for AC_Dimming
 
