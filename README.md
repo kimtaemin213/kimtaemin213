@@ -1,5 +1,5 @@
 # COMPOSITION!
-* zerocrssing circuit
+* zerocrssing circuit!
 
 
 # code for zerocrossing
