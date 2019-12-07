@@ -15,7 +15,7 @@
 
 # CIRCUIT
 * will be update soon.
-
+* i will add  opencv
 
 ![CIRCUIT](회로.jpg)
 
