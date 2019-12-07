@@ -14,7 +14,7 @@
 * if you want more safety ciruit, add 1n4007 protection diode
 
 # CIRCUIT
-* will be update
+* will be update soon
 
 
 ![CIRCUIT](회로.jpg)
