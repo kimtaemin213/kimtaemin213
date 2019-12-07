@@ -9,7 +9,7 @@
 * moc3021
 * tlp620/lm396
 * triac/bt136/BTA06-600E
-* 220k resistance  * 2 / 10k * 2  /  120 / 470 /
+* 120k resistance  * 2 / 1k res  /  360res * 2 /
 * 220v 50W lamp
 * if you want more safety ciruit, add 1n4007 protection diode
 
