@@ -9,9 +9,14 @@
 * moc3021
 * tlp620/lm396
 * triac/bt136/BTA06-600E
-* 120k resistance  * 2 / 1k res  /  360res * 2 / a
+* 120k resistance  * 2 / 1k res  /  360res * 2 / 
 * 220v 50W lamp
 * if you want more safety ciruit, add 1n4007 protection diode
+
+##
+op-amp comparator circuit(it's more safety)
+![op-amp](coparator.jpg)
+
 
 # CIRCUIT
 * will be update soon.
